@@ -4,7 +4,7 @@
 Netfilx clone Project frontend project built with **React + Vite** and the **TMDB API**.
 
 ## 🚀 Live Demo
-Experience the live deployment here: **[Your Vercel URL](https://vercel.app)**
+Experience the live deployment here: **[Your Vercel URL](https://netflix-clone-project-1-vert.vercel.app/)**
 
 ## ✨ Core Features
 * **Dynamic Content Rows:** Smoothly animated, horizontal scroll-carousels displaying categorized media banners.
