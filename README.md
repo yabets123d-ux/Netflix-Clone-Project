@@ -14,7 +14,7 @@ Experience the live deployment here: **[Your Vercel URL](https://vercel.app)**
 * **Configurable Environments:** Centralized environment variable structure for external endpoints.
 
 ## 🛠️ Tech Stack & Linting
-* **Core Framework:** React 18+
+* **Core Framework:** React 19+
 * **Build System:** Vite
 * **Linting & Code Quality:** Oxlint (High-speed JavaScript/TypeScript linter)
 * **Hosting Platform:** Vercel Global Edge Network
@@ -25,7 +25,7 @@ Follow these steps to configure and run the repository locally on your computer:
 
 ### 1. Clone the project files
 ```bash
-git clone https://github.com
+git clone (https://github.com/yabets123d-ux/Netflix-Clone-Project.git)
 cd Netflix-Clone-Project
 ```
 
