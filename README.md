@@ -47,5 +47,3 @@ npm run dev
 ```
 Once initialized, open your browser and head over to `http://localhost:5173` to explore the project.
 
-## 🛡️ License
-This project is open-source and structured for educational and portfolio presentation under the [MIT License](LICENSE).
